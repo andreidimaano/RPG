@@ -2,6 +2,7 @@
 Simple RPG using polymorphism
 
 Types of Characters include:
+
 -Wizard
 
 -Warrior
